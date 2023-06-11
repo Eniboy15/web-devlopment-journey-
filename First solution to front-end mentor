@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+		<meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">		<title>front end mentor</title>
+
+		<style>
+
+		body{
+
+				font-family:Karla;
+
+		margin:0px:
+
+				background:RGB(229,236,255); 
+
+		}
+
+		.div1{
+
+				color:hsl(208,43%,54%);
+
+				 background:RGB(225,255,255);
+
+				padding-bottom:20px;
+
+		}
+
+		#p1{
+
+				color:grey;
+
+		}
+
+		.h1{
+
+				color:hsl(179,62%,43%);
+
+		}
+
+		h3{
+
+				color:hsl(71,73%,54%);
+
+		}
+
+		.div2{
+
+				background:ForestGreen;
+
+				color:white;
+
+				border:0px;
+
+				padding-left:20px;
+
+				padding-right:20px;
+
+				margin-top:-25px;
+
+				padding-top:5px;
+
+				padding-bottom:5px;
+
+				height:200px;
+
+								
+
+		}
+
+		.div2 h1{
+
+				color:white;
+
+				font-size:16px;
+
+		}
+
+		.div2 span{
+
+				font-size:20pt;
+
+				font-weight: bold;
+
+				color:white;
+
+				
+
+		}
+
+		#sign{
+
+				color:white;
+
+				border-radius:3px 3px 3px 3px ;
+
+				background:LawnGreen; 
+
+				text-align:center;
+
+				width:75%;
+
+				height:25px;
+
+				margin-left:10%;
+
+				margin-right:25%;
+
+				padding-top:10px;
+
+		}
+
+		
+
+		.div3{
+
+				background-color: green;
+
+				border:0px;
+
+				margin-top:-25px; 
+
+				color:white;
+
+				padding-left:20px;
+
+				padding-right:20px; 
+
+				line-height:1.2;
+
+				padding-top:12px;
+
+				
+
+		}
+
+		.div3 h1{
+
+				font-size:18px;
+
+		}
+
+		</style>
+
+</head>
+
+<body>
+
+		<div class=div1>
+
+				<h1 class=h1>Join our community</h1>
+
+				<h3>30-days, hassle free money back guarantee</h3>
+
+				<p id="p1">Gain acces to our full library of tutorals along with expert code reviews. perfect for any developers who are serious about honing thier skills</p>
+
+		</div>
+
+		
+
+		<div class=div2>
+
+				<h1>Monthly Subscription</h1>
+
+				<p><span>$29</span>per month</p>
+
+				<p>Full access for less than 1$ a day</p>
+
+				<p id="sign"> Sign up</p>
+
+		</div>
+
+		<div class=div3>
+
+				<h1>Why us</h1>
+
+				<p>Tutorials by industry experts</p>
+
+				<p>peer & experts code review coding exercise</p>
+
+				<p> Access to our Github repos</p>
+
+				<p> Community</p>
+
+				<p>Flashcard decks</p>
+
+				<p>New videos everyweek</p>
+
+		</div>
+
+</body>
+
+</html>
+
